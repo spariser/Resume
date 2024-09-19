@@ -6,3 +6,6 @@
 
 # Work
 [BlackRock](https://www.blackrock.com/us/individual)
+
+#Research Interests
+Sustainable & Environmental Finance
